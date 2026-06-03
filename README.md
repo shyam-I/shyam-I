@@ -1,5 +1,8 @@
 # 💫 About Me:
-I AM CURRENTLY WORKING ON MY WEB PROJECTS <br>AND LEARNING CYBER SECURITY <br>BE CCE STUDENT <br>
+Aspiring Full-Stack Developer and Cybersecurity Enthusiast <br>
+Skilled in Web Development, Problem Solving, and Modern Technologies <br>
+Currently pursuing BE in Computer and Communication Engineering (CCE) <br>
+Passionate about building scalable applications and continuous learning
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/villan_cr2)
