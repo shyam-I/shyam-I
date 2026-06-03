@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 # 💫 About Me:<br><br>MERN Stack Developer Intern at Smart Yugam<br><br>Aspiring Cybersecurity Analyst and Full-Stack Developer<br><br>Passionate about Web Development, Scalable Applications, and Modern Technologies<br><br>Currently pursuing B.E. in Computer and Communication Engineering (CCE) at Kathir College of Engineering<br><br>Building real-world projects in E-Commerce, AI, and Cybersecurity<br>
 
 
